@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  }
+input, button {
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+  margin: 5px;
+}
+*{ 
+ background-image: url("./img/kitchen.jpg"); 
+} 
+.food {
+  width: 500px;
+  height: 250px;
+  border: 2px solid black;
+  margin: 10px;
+}
